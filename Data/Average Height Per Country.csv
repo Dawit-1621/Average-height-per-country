@@ -1,0 +1,512 @@
+Country,Year,Sex,Average_height_cm,Sources_count
+Afghanistan,2018,FeMale,155.3,1
+Afghanistan,2018,Male,168.2,1
+Albania,2020,FeMale,166.8,1
+Albania,2020,Male,176.6,1
+Albania,,Both,174,1
+Albania,,FeMale,161.8,1
+Albania,,Male,174,1
+Algeria,2005,FeMale,158.5,1
+Algeria,2005,Male,169.7,1
+Argentina,,Both,174.46,1
+Argentina,,FeMale,161,1
+Argentina,,Male,174.5,1
+Armenia,2016,FeMale,159.2,1
+Armenia,2016,Male,171.5,1
+Australia,,Both,176.7,2
+Australia,,FeMale,161.8,1
+Australia,,Male,175.6,1
+Austria,2006,FeMale,166,1
+Austria,2006,Male,179,1
+Austria,,Both,179.25,4
+Azerbaijan,2005,FeMale,165.4,1
+Azerbaijan,2005,Male,171.8,1
+Azerbaijan,,Both,171.8,1
+Bahrain,2002,FeMale,154.2,1
+Bahrain,2002,Male,165.1,1
+Bahrain,2009,FeMale,156.6,1
+Bahrain,2009,Male,171,1
+Bahrain,,Both,168.05,2
+Bangladesh,2014,FeMale,151.6,1
+Bangladesh,2014,Male,168.3,1
+Bangladesh,,FeMale,150.3,1
+Bangladesh,,Male,162.1,1
+Belarus,,FeMale,164.5,1
+Belarus,,Male,175.9,1
+Belgium,2001,FeMale,168.1,1
+Belgium,2001,Male,178.6,1
+Belgium,2005,FeMale,164.6,1
+Belgium,2005,Male,176.6,1
+Belgium,2018,FeMale,163.1,1
+Belgium,2018,Male,176.8,1
+Belgium,,Both,178.65,2
+Belize,2010,FeMale,154.5,1
+Belize,2010,Male,166.3,1
+Benin,2015,FeMale,160.3,1
+Benin,2015,Male,167.6,1
+Bhutan,2014,FeMale,153.2,1
+Bhutan,2014,Male,163.9,1
+Bolivia,2003,FeMale,151.8,1
+Bolivia,2009,FeMale,155.4,1
+Bolivia,2009,Male,166.6,1
+Bolivia,,Both,160,1
+Bolivia,,FeMale,149,1
+Bolivia,,Male,162,1
+Bosnia and Herzegovina,2014,FeMale,171.8,1
+Bosnia and Herzegovina,2014,Male,183.9,1
+Bosnia and Herzegovina,2017,FeMale,169.4,1
+Bosnia and Herzegovina,2017,Male,181.7,1
+Bosnia and Herzegovina,,Both,183.9,1
+Botswana,2014,FeMale,160.9,1
+Botswana,2014,Male,170.9,1
+Brazil,2009,FeMale,158.8,1
+Brazil,2009,Male,170.7,1
+Brazil,,Both,171.85,2
+Brazil - Rural,,Both,170.9,1
+Brazil - Urban,,Both,173.5,1
+Brazil – Rural,2009,FeMale,158.9,1
+Brazil – Rural,2009,Male,170.9,1
+Brazil – Urban,2009,FeMale,161.6,1
+Brazil – Urban,2009,Male,173.5,1
+Brunei,,FeMale,152,1
+Brunei,,Male,165,1
+Bulgaria,2008,FeMale,163.2,1
+Bulgaria,2008,Male,175.2,1
+Bulgaria,,Both,175.2,1
+Bulgaria - Sofia,,Both,178.1,1
+Bulgaria – Sofia,2023,Male,179.8,2
+Burkina Faso,2013,FeMale,162.3,1
+Burkina Faso,2013,Male,170.6,1
+Cambodia,2010,FeMale,151.9,1
+Cambodia,2010,Male,161.7,1
+Cameroon - Urban,,Both,171.35,2
+Cameroon – Urban,2003,FeMale,161.3,1
+Cameroon – Urban,2003,Male,170.6,1
+Canada,,Both,175.55,2
+Canada,,FeMale,162.65,2
+Canada,,Male,176.4,2
+Central African Republic,1994,FeMale,158.9,1
+Chad,2004,FeMale,162.6,1
+Chile,,Both,170.6,3
+Chile,,FeMale,156.1,1
+Chile,,Male,169.6,1
+China,2020,FeMale,159.3,2
+China,2020,Male,171.15,2
+China,,Both,170.5,5
+China,,FeMale,158.9,1
+China,,Male,169.6,1
+"China, People's Republic of",,Both,167.1,1
+Colombia,2002,FeMale,158.7,1
+Colombia,2002,Male,170.6,1
+Colombia,,Both,170.6,1
+Comoros,1996,FeMale,154.8,1
+"Congo, Democratic Republic of the",2005,FeMale,157.7,1
+"Congo, Republic of the",2007,FeMale,159,1
+Costa Rica – San Josa,2010,FeMale,155.9,1
+Costa Rica – San Josa,2010,Male,169.4,1
+Croatia,,Both,180.4,1
+Croatia,,FeMale,166.5,1
+Croatia,,Male,180.4,1
+Cuba - Urban,,Both,168,1
+Cuba – Urban,1999,FeMale,156,1
+Cuba – Urban,1999,Male,168,1
+Czech Republic,2001,FeMale,167.2,1
+Czech Republic,2001,Male,180.3,1
+Czech Republic,,Both,180.31,1
+Czech Republic,,FeMale,164.4,1
+Czech Republic,,Male,177.7,1
+Denmark,2024,FeMale,168.7,1
+Denmark,2024,Male,181.6,1
+Denmark,,Both,181.4666667,3
+Dinaric Alps,2005,FeMale,171.1,1
+Dinaric Alps,2005,Male,184.6,1
+Dinaric Alps,,Both,185.6,1
+Dominican Republic,2014,FeMale,159,1
+Dominican Republic,2014,Male,172.7,1
+East Timor,2014,FeMale,152.9,1
+East Timor,2014,Male,158.7,1
+Ecuador,2014,FeMale,154.2,1
+Ecuador,2014,Male,167.1,1
+Egypt,2008,FeMale,158.9,1
+Egypt,2008,Male,170.3,1
+Egypt,,Both,170.3,1
+El Salvador,2007,FeMale,160.3,1
+El Salvador – San Salvador,2010,FeMale,155.9,1
+El Salvador – San Salvador,2010,Male,168.1,1
+Estonia,,Both,179.1,1
+Estonia,,FeMale,164.8,1
+Estonia,,Male,178.6,1
+Eswatini,2014,FeMale,158.9,1
+Eswatini,2014,Male,168.4,1
+Ethiopia,2015,FeMale,158.1,1
+Ethiopia,2015,Male,167.6,1
+Europe,,Both,177.6,1
+Fiji,2002,FeMale,161.2,1
+Fiji,2002,Male,173.4,1
+Finland,1994,FeMale,165.3,1
+Finland,1994,Male,178.9,1
+Finland,,Both,179.1666667,3
+Finland,,FeMale,167.2,1
+Finland,,Male,180.7,1
+France,2001,FeMale,161.9,1
+France,2001,Male,174.1,1
+France,,Both,175.725,4
+France,,FeMale,162.5,1
+France,,Male,175.6,1
+Gabon,2009,FeMale,160.9,1
+Gabon,2009,Male,171,1
+Gambia - Rural,,Both,168,1
+Georgia,2016,FeMale,161.2,1
+Georgia,2016,Male,173.8,1
+Germany,2021,FeMale,166.7,2
+Germany,2021,Male,180.3,2
+Germany,,Both,178.694,5
+Germany,,FeMale,166.2,2
+Germany,,Male,179.45,2
+Germany - Urban,,Both,180.6,1
+Ghana,,Both,169.5,1
+Ghana,,FeMale,158.5,1
+Ghana,,Male,169.5,1
+Greece,2003,FeMale,165,1
+Greece,2003,Male,177,1
+Greece,,Both,177.53,5
+Guatemala,,FeMale,148.1,1
+Guatemala,,Male,160.1,1
+Guinea,2005,FeMale,158.8,1
+Haiti,2005,FeMale,158.6,1
+Honduras,2005,FeMale,152,1
+Honduras – Tegucigalpa,2010,FeMale,153.9,1
+Honduras – Tegucigalpa,2010,Male,167.2,1
+Hong Kong,2005,FeMale,160.1,1
+Hong Kong,2005,Male,173.4,1
+Hong Kong,2006,FeMale,158.7,1
+Hong Kong,2006,Male,171.7,1
+Hong Kong,,Both,172.55,2
+Hungary,2005,Male,177.3,1
+Hungary,,Both,176.65,2
+Hungary,,FeMale,164,1
+Hungary,,Male,176,1
+Iceland,2007,FeMale,168,1
+Iceland,2007,Male,181,1
+India,2011,FeMale,155.0333333,3
+India,2011,Male,169.5,3
+India,,Both,165.5,2
+India - Rural,,Both,161.2,1
+Indonesia,2018,FeMale,154.1,1
+Indonesia,2018,Male,164,1
+Indonesia,,Both,158,1
+Iran,2005,FeMale,158.55,2
+Iran,2005,Male,171.85,2
+Iran,,Both,171.85,2
+Iraq,2015,FeMale,157.5,1
+Iraq,2015,Male,171.3,1
+Iraq - Baghdad,,Both,165.4,1
+Ireland,2007,FeMale,163,1
+Ireland,2007,Male,177,1
+Ireland,,Both,177.525,4
+Israel,2010,FeMale,166,1
+Israel,2010,Male,177,1
+Israel,,Both,177,1
+Italy,,Both,176.06,3
+Italy,,FeMale,162.5,1
+Italy,,Male,176.5,1
+Italy – North,2018,FeMale,165,1
+Italy – North,2018,Male,179.4,1
+Italy – South,2018,FeMale,164,1
+Italy – South,2018,Male,177.4,1
+Ivory Coast,,Both,170.1,1
+Ivory Coast,,FeMale,159.1,1
+Ivory Coast,,Male,170.1,1
+Jamaica,,Both,171.8,1
+Jamaica,,FeMale,160.8,1
+Jamaica,,Male,171.8,1
+Japan,2005,FeMale,158,1
+Japan,2005,Male,172,1
+Japan,2018,FeMale,158.2,2
+Japan,2018,Male,171.2,2
+Japan,,Both,171.5666667,3
+Jordan,2019,FeMale,159,1
+Jordan,2019,Male,173,1
+Kazakhstan,1999,FeMale,159.8,1
+Kenya,2016,FeMale,158.2,1
+Kenya,2016,Male,169.6,1
+Kiribati,,FeMale,158.4,1
+Kiribati,,Male,170.7,1
+Kosovo,2017,FeMale,165.7,1
+Kosovo,2017,Male,179.5,1
+Kosovo – Pristina,2017,FeMale,166.8,1
+Kosovo – Pristina,2017,Male,180.6,1
+Kuwait,,FeMale,158.6,1
+Kuwait,,Male,172,1
+Kyrgyzstan,1997,FeMale,158,1
+Laos – Vientiane,2008,FeMale,153.4,1
+Laos – Vientiane,2008,Male,162.2,1
+Latvia,2019,FeMale,168.8,1
+Latvia,2019,Male,181.2,1
+Lebanon,,FeMale,162.4,1
+Lebanon,,Male,174.1,1
+Lesotho,2004,FeMale,157.6,1
+Liberia,2011,FeMale,154.2,1
+Liberia,2011,Male,161.1,1
+Lithuania,2001,FeMale,167.5,1
+Lithuania,2001,Male,181.3,1
+Lithuania,,Both,179.25,2
+Lithuania - Rural,,Both,176.2,1
+Lithuania - Urban,,Both,178.4,1
+Lithuania – Rural,,Male,176.2,1
+Lithuania – Urban,,Male,178.4,1
+Madagascar,2003,FeMale,154.3,1
+Madagascar – Antananarivo Province,2005,FeMale,154,1
+Madagascar – Antananarivo Province,2005,Male,163,1
+Malawi,2009,FeMale,155.4,1
+Malawi,2009,Male,164.3,1
+Malawi - Urban,,Both,166,1
+Malawi – Urban,2000,FeMale,155,1
+Malawi – Urban,2000,Male,166,1
+Malaysia,1996,FeMale,155.025,4
+Malaysia,1996,Male,166.8,4
+Malaysia,2005,FeMale,154.4,1
+Malaysia,2005,Male,165.2,1
+Malaysia,,Both,167.9666667,3
+Maldives,2011,FeMale,153,1
+Maldives,2011,Male,164.7,1
+Mali - Southern Mali,,Both,171.3,1
+Mali – Southern Mali,1992,FeMale,160.4,1
+Mali – Southern Mali,1992,Male,171.3,1
+Malta,2003,FeMale,165.3,1
+Malta,2003,Male,175.2,1
+Malta,,Both,172.55,2
+Marshall Islands,2002,FeMale,151.6,1
+Marshall Islands,2002,Male,163.3,1
+Mauritania,2006,FeMale,160.3,1
+Mauritania,2006,Male,167.9,1
+Mexico,2014,FeMale,159,1
+Mexico,2014,Male,172,1
+Mexico,,Both,169.3333333,3
+Mexico - Bajio,,Both,172,1
+Mexico - Morelos,,Both,167,1
+"Micronesia, Federated States of",2006,FeMale,158.9,1
+"Micronesia, Federated States of",2006,Male,169.2,1
+Moldova,2005,FeMale,161.2,1
+Moldova,2013,FeMale,161.8,1
+Moldova,2013,Male,173,1
+Mongolia,2015,FeMale,156.8,1
+Mongolia,2015,Male,167.8,1
+Mongolia,,Both,168.4,1
+Montenegro,2017,FeMale,169.4,1
+Montenegro,2017,Male,182.9,1
+Montenegro,,Both,183.2,1
+Morocco,2017,FeMale,159.2,1
+Morocco,2017,Male,171.8,1
+Mozambique,2003,FeMale,156,1
+Myanmar,2014,FeMale,153.4,1
+Myanmar,2014,Male,163.5,1
+Namibia,2006,FeMale,160.7,1
+Nauru,2004,FeMale,156.6,1
+Nauru,2004,Male,168.1,1
+Nepal,2006,FeMale,150.8,1
+Nepal,2006,Male,163,1
+Nepal,,FeMale,150.4,1
+Nepal,,Male,161.7,1
+Netherlands,2009,FeMale,170.7,1
+Netherlands,2009,Male,183.8,1
+Netherlands,2020,FeMale,168.5,1
+Netherlands,2020,Male,181.2,1
+Netherlands,,Both,182.3,5
+New Zealand,2007,FeMale,164,1
+New Zealand,2007,Male,177,1
+New Zealand,,Both,177.5,2
+Nicaragua,2001,FeMale,153.7,1
+Nicaragua – Managua,2010,FeMale,154.7,1
+Nicaragua – Managua,2010,Male,166.8,1
+Nigeria,2011,FeMale,160.3,1
+Nigeria,2011,Male,167.2,1
+Nigeria,,Both,165.5,2
+Nigeria,,FeMale,157.8,1
+Nigeria,,Male,163.8,1
+North Korea,2005,FeMale,154.9,1
+North Korea,2005,Male,165.6,1
+North Korea,,Both,165.6,1
+North Macedonia,2016,FeMale,164.8,1
+North Macedonia,2016,Male,179.2,1
+Norway,2012,FeMale,167.1,1
+Norway,2012,Male,179.9,1
+Norway,,Both,180.9825,4
+Norway,,FeMale,167,1
+Norway,,Male,179.7,1
+Oman,2017,FeMale,156.1,1
+Oman,2017,Male,167.4,1
+Pakistan,,FeMale,153.9,1
+Pakistan,,Male,165.8,1
+Pakistan – Punjab,2023,Male,170.4,1
+Pakistan – Rabwah,2016,FeMale,159,1
+Pakistan – Rabwah,2016,Male,172,1
+Papua New Guinea,,FeMale,154.3,1
+Papua New Guinea,,Male,161.7,1
+Peru,2005,FeMale,151,1
+Peru,2005,Male,164,1
+Peru,,Both,164,1
+Philippines,2003,FeMale,151.8,1
+Philippines,2003,Male,163.5,1
+Philippines,,Both,162.65,2
+Poland,2007,FeMale,159.4,1
+Poland,2007,Male,172.2,1
+Poland,2010,FeMale,165.1,1
+Poland,2010,Male,178.7,1
+Poland,,Both,178.7,1
+Portugal,2001,FeMale,161,1
+Portugal,2001,Male,171,1
+Portugal,2008,Male,173.9,1
+Portugal,,Both,172.725,4
+Qatar,2005,FeMale,161.1,1
+Qatar,2005,Male,170.8,1
+Qatar,2012,FeMale,157.7,1
+Qatar,2012,Male,171.2,1
+Qatar,,Both,170.8,1
+Romania,,Both,172,1
+Russia,2021,FeMale,164.8,2
+Russia,2021,Male,177.3,2
+Russia,,Both,177.2,1
+Russia,,FeMale,165.5,1
+Russia,,Male,177.4,1
+Rwanda,,FeMale,155.7,1
+Rwanda,,Male,163.9,1
+Saint Kitts and Nevis,,FeMale,161.6,1
+Saint Kitts and Nevis,,Male,170.3,1
+Samoa,2004,FeMale,166.6,1
+Saudi Arabia,2005,FeMale,154.3,1
+Saudi Arabia,2005,Male,167.1,1
+Saudi Arabia,2010,FeMale,156.3,1
+Saudi Arabia,2010,Male,168.9,1
+Saudi Arabia,,Both,168.9,1
+Senegal,2005,FeMale,163,1
+Senegal – Rural,2015,FeMale,163.8,1
+Senegal – Rural,2015,Male,175.9,1
+Senegal – Urban,2015,FeMale,166.1,1
+Senegal – Urban,2015,Male,179,1
+Serbia,2012,FeMale,166.8,1
+Serbia,2012,Male,182,1
+Serbia,2013,FeMale,163.3,1
+Serbia,2013,Male,177.4,1
+Serbia,,Both,182,1
+Sierra Leone,2009,FeMale,158,1
+Sierra Leone,2009,Male,166,1
+Singapore,2003,FeMale,160,1
+Singapore,2003,Male,170.6,1
+Singapore,,Both,171,1
+Singapore,,Male,171.9666667,3
+Slovakia,2011,FeMale,165.4,1
+Slovakia,2011,Male,179.3,1
+Slovakia,,Both,179.4,1
+Slovenia - Ljubljana,,Both,180.3,1
+Slovenia – Ljubljana,2011,FeMale,167.4,1
+Slovenia – Ljubljana,2011,Male,180.3,1
+Solomon Islands,2006,FeMale,155.7,1
+Solomon Islands,2006,Male,166.4,1
+South Africa,2003,FeMale,159,1
+South Africa,2003,Male,168,1
+South Africa,,Both,168,1
+South Korea,2022,FeMale,162.5,1
+South Korea,2022,Male,174.7,1
+South Korea,,Both,172.5666667,3
+South Korea,,FeMale,161.1,1
+South Korea,,Male,174.6,1
+South Korea - Seoul,,Both,173.9,1
+Spain,2007,FeMale,163,1
+Spain,2007,Male,174,1
+Spain,2008,FeMale,164,1
+Spain,2008,Male,177.3,1
+Spain,,Both,175.2833333,6
+Spain,,FeMale,159.6,1
+Spain,,Male,173.1,1
+Sri Lanka,,Both,164.6,2
+Sri Lanka,,FeMale,151.4,1
+Sri Lanka,,Male,163.6,1
+Sudan,2016,FeMale,160.3,1
+Sudan,2016,Male,171.2,1
+Sweden,2008,FeMale,166.8,1
+Sweden,2008,Male,181.5,1
+Sweden,,Both,179.9333333,3
+Sweden,,FeMale,164.6,1
+Sweden,,Male,177.9,1
+Switzerland,2009,Male,178.2,1
+Switzerland,2017,FeMale,164.7,1
+Switzerland,2017,Male,177.4,1
+Switzerland,,Both,176.8,2
+Switzerland,,FeMale,164,1
+Switzerland,,Male,175.4,1
+Taiwan,2011,FeMale,159.9,1
+Taiwan,2011,Male,171.4,1
+Taiwan,,Both,171.4,1
+Tanzania,2004,FeMale,156.6,1
+Thailand,2005,FeMale,159,1
+Thailand,2005,Male,170.3,1
+Thailand,2018,FeMale,153.7,1
+Thailand,2018,Male,163.7,1
+Thailand,,Both,170.3,1
+The Gambia,2011,FeMale,160.3,1
+The Gambia,2011,Male,167.2,1
+The Gambia – Rural,,FeMale,157.8,1
+The Gambia – Rural,,Male,168,1
+Togo,2010,FeMale,159.3,1
+Togo,2010,Male,169.1,1
+Tonga,2012,FeMale,167,1
+Tonga,2012,Male,177.9,1
+Tonga,,Both,176.1,1
+Trinidad and Tobago,2011,FeMale,160.6,1
+Trinidad and Tobago,2011,Male,173.2,1
+Tunisia,,FeMale,157,1
+Tunisia,,Male,171,1
+Turkey,2007,FeMale,161.9,1
+Turkey,2007,Male,173.6,1
+Turkey,2017,FeMale,157.7,1
+Turkey,2017,Male,171.4,1
+Turkey,2021,FeMale,163,1
+Turkey,2021,Male,177.1,1
+Turkey,,Both,173.6,1
+Turkey - Ankara,,Both,175.1,2
+Turkey – Ankara,,FeMale,158.9,1
+Turkey – Ankara,,Male,174,1
+Turkey – Trabzon,1994,FeMale,164.5,1
+Turkey – Trabzon,1994,Male,175.7,1
+Turkmenistan,2018,FeMale,162.7,1
+Turkmenistan,2018,Male,173.3,1
+U.S.,,Both,175.72,5
+UK - England,,Both,176.55,2
+UK - Scotland,,Both,176.6,2
+UK - Wales,,Both,177,1
+Uganda,2014,FeMale,157.8,1
+Uganda,2014,Male,166.9,1
+Ukraine,2020,FeMale,164,1
+Ukraine,2020,Male,175,1
+United Arab Emirates,,Both,173.4,1
+United Arab Emirates,,FeMale,156.4,1
+United Arab Emirates,,Male,173.4,1
+United Kingdom – England,2012,FeMale,161.9,1
+United Kingdom – England,2012,Male,175.3,1
+United Kingdom – Scotland,2008,FeMale,161.3,1
+United Kingdom – Scotland,2008,Male,175,1
+United States,,FeMale,161.3,1
+United States,,Male,175.3,1
+United States – African Americans,,FeMale,163.4,1
+United States – African Americans,,Male,176.4,1
+United States – Asian Americans,,FeMale,158.1,1
+United States – Asian Americans,,Male,172.9,1
+United States – Hispanic and Latino Americans,,FeMale,158.7,1
+United States – Hispanic and Latino Americans,,Male,171.2,1
+United States – Mexican Americans,,FeMale,157.5,1
+United States – Mexican Americans,,Male,171.7,1
+United States – Non - Hispanic Whites,,FeMale,164.5,1
+United States – Non - Hispanic Whites,,Male,178,1
+Uruguay,1990,FeMale,158,1
+Uruguay,1990,Male,170,1
+Uruguay,,Both,170,1
+Uzbekistan,2014,FeMale,157,1
+Uzbekistan,2014,Male,169.6,1
+Vanuatu,,FeMale,158.7,1
+Vanuatu,,Male,167.8,1
+Vietnam,,Both,163.9,2
+Vietnam,,FeMale,156.2,1
+Vietnam,,Male,168.1,1
+Zambia,2007,FeMale,158.5,1
+Zimbabwe,2005,FeMale,160.3,1
